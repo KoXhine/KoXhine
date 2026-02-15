@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```javascript
+javascript
 const KoXhine = {
     location: "Myanmar 🇲🇲",
     role: "Full Stack Developer",
@@ -22,7 +22,7 @@ const KoXhine = {
     currentFocus: "Building Amazing Projects",
     lifePhilosophy: "Code is poetry, debug is art 🎨"
 };
-```
+
 
 ## 🎯 Master Level Skills
 
@@ -174,15 +174,15 @@ const KoXhine = {
 
 ## 💻 Workspace Specs
 
-```javascript
-const mySetup = {
+javascript
+co nst mySetup = {
     OS: "Linux / Windows / macOS",
     Editor: "VS Code / IntelliJ IDEA",
     Terminal: "Oh My Zsh / PowerShell",
     Browser: "Chrome / Firefox",
     Hardware: "High-Performance Development Machine"
 };
-```
+
 
 ## 🎯 Current Focus
 
