@@ -120,22 +120,57 @@ const KoXhine = {
 
 ## 🤝 Connect With Me
 
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://github.com/KoXhine">
+          <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80px" alt="GitHub"/>
+          <br><b>GitHub</b>
+          <br><sub>@KoXhine</sub>
+        </a>
+      </td>
+      <td align="center" width="200px">
+        <a href="mailto:koxhine@outlook.com">
+          <img src="https://img.icons8.com/fluency/96/000000/mail.png" width="80px" alt="Email"/>
+          <br><b>Email</b>
+          <br><sub>koxhine@outlook.com</sub>
+        </a>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://xtx-unlock.shop">
+          <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80px" alt="Website"/>
+          <br><b>Website</b>
+          <br><sub>xtx-unlock.shop</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://t.me/xhineunlock2023">
+          <img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="80px" alt="Telegram"/>
+          <br><b>Telegram</b>
+          <br><sub>@xhineunlock2023</sub>
+        </a>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://t.me/xhineunlockchannel">
+          <img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="80px" alt="Telegram Channel"/>
+          <br><b>Telegram Channel</b>
+          <br><sub>@xhineunlockchannel</sub>
+        </a>
+      </td>
+      <td align="center" width="200px">
+        <!-- Empty cell for symmetry -->
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
 <p align="center">
-  <a href="https://github.com/KoXhine">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:koxhine@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://xtx-unlock.shop">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://t.me/xhineunlock2023">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://t.me/xhineunlockchannel">
-    <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&customColorList=12" width="80%"/>
 </p>
 
 ## 💻 Workspace Specs
