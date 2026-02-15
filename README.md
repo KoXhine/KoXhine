@@ -126,21 +126,21 @@ const KoXhine = {
     <tr>
       <td align="center" width="200px">
         <a href="https://github.com/KoXhine">
-          <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80px" alt="GitHub"/>
+          <img src="https://img.icons8.com/fluency/80/github.png" width="80px" alt="GitHub"/>
           <br><b>GitHub</b>
           <br><sub>@KoXhine</sub>
         </a>
       </td>
       <td align="center" width="200px">
         <a href="mailto:koxhine@outlook.com">
-          <img src="https://img.icons8.com/fluency/96/000000/mail.png" width="80px" alt="Email"/>
+          <img src="https://img.icons8.com/fluency/80/mail.png" width="80px" alt="Email"/>
           <br><b>Email</b>
           <br><sub>koxhine@outlook.com</sub>
         </a>
       </td>
       <td align="center" width="200px">
         <a href="https://xtx-unlock.shop">
-          <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80px" alt="Website"/>
+          <img src="https://img.icons8.com/fluency/80/domain.png" width="80px" alt="Website"/>
           <br><b>Website</b>
           <br><sub>xtx-unlock.shop</sub>
         </a>
@@ -149,14 +149,14 @@ const KoXhine = {
     <tr>
       <td align="center" width="200px">
         <a href="https://t.me/xhineunlock2023">
-          <img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="80px" alt="Telegram"/>
+          <img src="https://img.icons8.com/fluency/80/telegram-app.png" width="80px" alt="Telegram"/>
           <br><b>Telegram</b>
           <br><sub>@xhineunlock2023</sub>
         </a>
       </td>
       <td align="center" width="200px">
         <a href="https://t.me/xhineunlockchannel">
-          <img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="80px" alt="Telegram Channel"/>
+          <img src="https://img.icons8.com/fluency/80/telegram-app.png" width="80px" alt="Telegram Channel"/>
           <br><b>Telegram Channel</b>
           <br><sub>@xhineunlockchannel</sub>
         </a>
