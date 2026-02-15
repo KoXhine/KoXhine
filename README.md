@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+KoXhine;Master+Level+Full+Stack+Developer;Live+from+Myanmar+%F0%9F%87%B2%F0%9F%87%B2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+KoXhine;Master+Level+Full+Stack+Developer;Live+from+Myanmar+%F0%9F%87%B2%F0%9F%87%B2" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -84,12 +84,11 @@ const KoXhine = {
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KoXhine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KoXhine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=KoXhine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoXhine&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoXhine&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -207,6 +206,4 @@ Feel free to reach out if you want to:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
   
   ### ⭐️ From [KoXhine](https://github.com/KoXhine) | Made with ❤️ in Myanmar 🇲🇲
-  
-  ![Snake animation](https://raw.githubusercontent.com/KoXhine/KoXhine/output/github-contribution-grid-snake.svg)
 </div>
