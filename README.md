@@ -13,17 +13,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const KoXhine = {
-    location: "Myanmar 🇲🇲",
-    role: "Full Stack Developer",
-    expertise: "Master Level",
-    passion: ["Coding", "Innovation", "Problem Solving"],
-    currentFocus: "Building Amazing Projects",
-    lifePhilosophy: "Code is poetry, debug is art 🎨"
-};
-```
-
 ## 🎯 Master Level Skills
 
 ### 💻 Programming Languages
@@ -171,18 +160,6 @@ const KoXhine = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&customColorList=12" width="80%"/>
 </p>
-
-## 💻 Workspace Specs
-
-```javascript
-const mySetup = {
-    OS: "Linux / Windows / macOS",
-    Editor: "VS Code / IntelliJ IDEA",
-    Terminal: "Oh My Zsh / PowerShell",
-    Browser: "Chrome / Firefox",
-    Hardware: "High-Performance Development Machine"
-};
-```
 
 ## 🎯 Current Focus
 
