@@ -175,7 +175,7 @@ const KoXhine = {
 ## 💻 Workspace Specs
 
 javascript
-co nst mySetup = {
+const mySetup = {
     OS: "Linux / Windows / macOS",
     Editor: "VS Code / IntelliJ IDEA",
     Terminal: "Oh My Zsh / PowerShell",
